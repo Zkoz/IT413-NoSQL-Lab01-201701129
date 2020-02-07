@@ -1,7 +1,7 @@
 # IT413-NoSQL-Lab01-201701129
  NoSQL-Lab01_MapReduceUsingHadoop
 
-Lab 1 rquires us to use Hadoop to perform Map Reduce Programs. All theses programs are performed on the single node cluster.
+Lab 1 requires us to use Hadoop to perform Map Reduce Programs. All theses programs are performed on the single node cluster.
 
 Q1: Map reduce is used to return the maximum temperature record yearly. Input file contains data of weather of the last few years.
 
